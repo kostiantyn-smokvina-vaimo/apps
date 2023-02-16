@@ -11,7 +11,7 @@ import { FocalPointView } from './components/FocalPointView';
 import { FocalPointDialog } from './components/FocalPointDialog';
 import { getField, isCompatibleImageField } from './utils';
 
-const IMAGE_FIELD_ID = 'image';
+const IMAGE_FIELD_ID = 'image2';
 
 export class App extends React.Component {
   static propTypes = {
